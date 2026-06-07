@@ -1,0 +1,17 @@
+# Virtual environment - never upload this
+venv/
+
+# Environment variables - contains passwords, never upload
+.env
+
+# Python cache files - automatically generated, not needed
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+
+
+
+
